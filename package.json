@@ -1,0 +1,9 @@
+{ 
+  "private":"true",
+  "workspaces":["packages","website"],
+  "name": "magical-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MagicalDesign/magical-ui.git",
+  "license": "MIT"
+}
